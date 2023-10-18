@@ -1,9 +1,9 @@
 # Recognition-of-Handwritten-Digits-Using-Support-Vector-Machine-and-Neural-Networks 
 Handwritten Character Recognition is a field of image processing as well as pattern recognition. There are two approaches for the pattern recognition such as statistical and structural. Handwritten digit recognition system can be divided into four stages.
- - Data acquisition
- -  Pre-processing
- - Feature extraction
- -  Classification
+•	Data acquisition
+•	Pre-processing
+•	Feature extraction
+•	Classification
 
 Preprocessing prepares image for feature extraction. Some of the common preprocessing steps are binarization, centering, morphological operations and more. Feature extraction is very important step and success of the classification strongly depends on it. Classification in computer science represents prediction of class or label for an object based on its similarity with previous objects.
 
