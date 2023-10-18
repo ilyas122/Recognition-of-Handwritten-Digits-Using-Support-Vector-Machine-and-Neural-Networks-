@@ -1,4 +1,7 @@
 # Recognition-of-Handwritten-Digits-Using-Support-Vector-Machine-and-Neural-Networks 
+
+Published Journal Link: http://ijariie.com/FormDetails.aspx?MenuScriptId=201755
+
 Handwritten Character Recognition is a field of image processing as well as pattern recognition. There are two approaches for the pattern recognition such as statistical and structural. Handwritten digit recognition system can be divided into four stages.
 
 •	Data acquisition
